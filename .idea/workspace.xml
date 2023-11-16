@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7895b781-ebc0-4973-a9c0-068d8d350d0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/PriceAnalyzerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/controllers/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/controllers/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/controllers/ShopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/models/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/models/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/services/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/analyzer/services/ShopService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analyzer/services/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analyzer/services/ShopService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../МИРЭА/ecomarket/ecomarket" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
